@@ -1,0 +1,15 @@
+﻿Build started 12/3/2015 9:26:42 PM.
+     1>Project "e:\heartbeat\heartbeat\heartbeat\heartbeat.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D GLEW_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt heartbeat.cpp
+         heartbeat.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\heartbeat\heartbeat\Debug\heartbeat.exe" /INCREMENTAL /NOLOGO winmm.lib gdi32.lib opengl32.lib flac.lib ogg.lib vorbis.lib vorbisenc.lib vorbisfile.lib freetype.lib jpeg.lib openal32.lib "sfml-main-d.lib" "sfml-system-s-d.lib" "sfml-window-s-d.lib" "sfml-graphics-s-d.lib" "sfml-audio-s-d.lib" GLEW/lib/glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"e:\heartbeat\heartbeat\Debug\heartbeat.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\heartbeat\heartbeat\Debug\heartbeat.lib" /MACHINE:X86 Debug\Doge.obj
+         Debug\GameObject.obj
+         Debug\heartbeat.obj
+         heartbeat.vcxproj -> e:\heartbeat\heartbeat\Debug\heartbeat.exe
+     1>Done Building Project "e:\heartbeat\heartbeat\heartbeat\heartbeat.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93
